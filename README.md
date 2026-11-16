@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Scaling web applications and improving performance**
 
-- 👨‍💻 All of my projects are available at [https://charles.wuaze.com/](https://charles.wuaze.com/)
+- 👨‍💻 All of my projects are available at [https://charles.wuaze.com/](https://devcharles.wuaze.com/)
 
 - 💬 Ask me about **React native and Php**
 
 - 📫 How to reach me **charlesodhiambo575@gmail.com**
 
-- 📄 Know about my experiences [https://charles.wuaze.com/expiriences/](https://charles.wuaze.com/expiriences/)
+- 📄 Know about my experiences [https://charles.wuaze.com/expiriences/](https://devcharles.wuaze.com)
 
 - ⚡ Fun fact **I think I am funny 😄**
 
